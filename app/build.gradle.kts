@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.learning.rockpaperscissor"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.learning.rockpaperscissor"
